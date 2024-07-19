@@ -42,4 +42,4 @@ async def leave(ctx):
     await ctx.message.delete()
 
 keep_alive()
-bot.run(environ["token"], bot=False) # Run the bot by adding your token in between the quotes.
+bot.run(environ["MTIzODIwODYyNDYwNjU4MDc3OA.GJAh9Z.9_WGNN9nj2qXxHGmBGz2r6Zgy2889dewHCRGDs"], bot=False) # Run the bot by adding your token in between the quotes.
